@@ -1,0 +1,6 @@
+google.com
+facebook.com
+github.com
+github.com/this-page-does-not-exist-123
+elo.invalid
+chatgpt.ai
